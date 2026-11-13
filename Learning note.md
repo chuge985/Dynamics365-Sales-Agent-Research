@@ -9,3 +9,5 @@ Copilot Chat isn't available in your region. You can still use Search and Apps.
 
 ### 1 需确定是否跟IP地址被识别为中国大陆有关
 ### 2 需确定账户是否被分配有效的 Microsoft 365 Copilot 许可证
+
+原因：需要获得有效的Microsoft 365 Copilot Service License
