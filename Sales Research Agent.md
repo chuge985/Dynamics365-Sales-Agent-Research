@@ -1,10 +1,9 @@
 # Sales Research Agent 是什么？
 Dynamics 365 Sales中的Sales Research Agent通过自然语言与数据对话，为你提供解决复杂的业务问题的能力。它为你提供丰富的销售数据洞察，助你在考虑众多变量时做出明智决策。
 你可以向agent提供general 和 business 背景，以提升内容的相关性和一致性。
-参考文档：https://learn.microsoft.com/zh-cn/dynamics365/sales/sales-research-agent
+中文文档：https://learn.microsoft.com/zh-cn/dynamics365/sales/sales-research-agent
+英文文档：https://learn.microsoft.com/en-us/dynamics365/sales/sales-research-agent
 
-
-以下文档以**面向客户解释“拿到这个 Agent 后可以做什么、不该期待什么”** 为目标重新组织，并补全了原文缺失的“不能做什么 / 不适合做什么”部分。你可以直接用它做客户宣讲或售前技术澄清。
 
 ---
 
@@ -182,6 +181,7 @@ Business function 向Sales Research Agent 介绍您的组织在某一用例中�
 # 将Sales Research Agent 连接到其他数据源或上传数据
 
 中文文档：https://learn.microsoft.com/zh-cn/dynamics365/sales/sales-research-agent-connect-data
+英文文档：https://learn.microsoft.com/en-us/dynamics365/sales/sales-research-agent-connect-data
 
 # 有关销售研究代理的常见问题解答
 
