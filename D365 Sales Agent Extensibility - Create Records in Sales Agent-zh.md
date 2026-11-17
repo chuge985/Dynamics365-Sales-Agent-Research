@@ -18,6 +18,7 @@
 3. 在左侧栏选择 App MCP 栏
 4. 在 Your app agent 下方，点击 Download app agent，下载应用包
 5. 下载完成后，会得到一个类似 `*_DeclarativeAgent.zip` 的压缩包。
+6. ![alt text](image.png)
 
 > **提示**：如果看不到该选项，请确认环境中已启用预览功能。
 
@@ -36,7 +37,7 @@
 
 ### 步骤三：将工具和知识添加到 Sales agent
 
-1. 在 **Microsoft 365 管理中心** https://admin.microsoft.com/中，进入 **Agents** → **All agents**。
+1. 在 **Microsoft 365 管理中心** https://admin.microsoft.com/  中，进入 **Agents** → **All agents**。
 2. 选择 **Sales**，然后切换到 **Custom tools & knowledge** 选项卡。
 3. 点击 **Choose agent**。
 4. 在 **Extend Sales** 窗格中，选择步骤二上传的自定义 agent，点击 **Next**。
@@ -52,6 +53,7 @@
 3. Sales agent 会在聊天中显示**内联表单**，字段来自 Dynamics 365 记录的**快速创建表单**。
 4. 审阅并补充字段后，点击 **Create**，记录即被保存到 Dynamics 365，并显示确认信息。
 
+> 在 Microsoft 365 管理中心为 Sales agent 发布、替换或更新 Custom tools & knowledge 后，变更最长可能需要 24 小时才会对用户可用
 
 ### 补充说明
 
