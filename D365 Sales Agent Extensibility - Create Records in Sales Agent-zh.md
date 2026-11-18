@@ -25,8 +25,8 @@
 
 ### 步骤二：在 Microsoft 365 管理中心上传自定义 agent
 
-1. 打开 **Microsoft 365 管理中心** https://admin.microsoft.com/，进入 **Copilot controls**。
-2. 选择 **Agents** → **+ Add agent**。
+1. 打开 **Microsoft 365 管理中心** https://admin.microsoft.com/
+2. 选择 **Agents** → **All Agents** → **+ Add agent**。
 3. 点击 **Choose File**，选中步骤一下载的 ZIP 包。
 4. 系统验证通过后，确认 agent 名称、图标和宿主产品，点击 **Next**。
 5. 指定可用的用户（建议先选择 **Just me** 或小范围测试组），点击 **Next**。
